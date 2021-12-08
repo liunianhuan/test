@@ -1,0 +1,17 @@
+entity\PageResult.class
+com\pingjia\pojo\Evaluate.class
+com\pingjia\pojo\User.class
+com\pingjia\pojo\EvaluateExample$Criterion.class
+entity\Result.class
+com\pingjia\pojo\ClientExample$Criteria.class
+com\pingjia\pojo\UserExample$Criterion.class
+com\pingjia\pojo\ClientExample$Criterion.class
+com\pingjia\pojo\EvaluateExample$GeneratedCriteria.class
+com\pingjia\pojo\UserExample$GeneratedCriteria.class
+com\pingjia\pojo\ClientExample$GeneratedCriteria.class
+com\pingjia\pojo\UserExample$Criteria.class
+com\pingjia\pojo\UserExample.class
+com\pingjia\pojo\EvaluateExample$Criteria.class
+com\pingjia\pojo\EvaluateExample.class
+com\pingjia\pojo\ClientExample.class
+com\pingjia\pojo\Client.class
